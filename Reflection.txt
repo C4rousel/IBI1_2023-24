@@ -1,5 +1,1 @@
-This is an example file for reflection in IBI1_2023-24.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I have also learnt to write careful instructions when communicating online!
+In the process of git clone, I mistakenly wrote the user name as Professor rob's, but finally I deleted the repository and changed it to my own user name. This mistake made me have a deeper understanding of git. I think it was a good experience to look up information on the website. I mistakenly wrote the user name as Professor rob's, but finally I deleted the repository and changed it to my own user name. This mistake enabled me to have a deeper understanding of git. I think it was a good experience to look up the information on the website by mysel
