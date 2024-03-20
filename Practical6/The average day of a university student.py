@@ -27,7 +27,6 @@ plt.show()
 #close the pie chart 
 plt.clf()
 
-
 #create variables
 Sleeping=8
 classes=6
