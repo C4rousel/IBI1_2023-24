@@ -45,7 +45,7 @@ def parse_with_sax(file_path):
 
 # Main function
 def main():
-    file_path = 'E:/zje/ibmi/ibi1/IBI1_2023-24/Practical14/go_obo.xml'
+    file_path = 'go_obo.xml'
 
     # Time and parse with DOM
     start_time = datetime.now()
