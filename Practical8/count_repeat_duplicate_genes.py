@@ -5,7 +5,8 @@ gene = open('Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa','r')
 rep_seq = input('Please input the repetitive sequence here:')
 open(rep_seq+' duplicate genes.fa','w')
 open('temp.fa','w')
-#Line 11 to 45 is adapted from my script--the get_ duplicate_genes.pycnt1 = 0
+#Line 11 to 45 is adapted from my script--the get_ duplicate_genes.py
+cnt1 = 0
 cnt2 = 0
 for line in gene:
     if line.startswith('>'):
