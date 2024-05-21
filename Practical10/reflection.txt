@@ -1,0 +1,5 @@
+In general, this practice was difficult. 
+I learned the construction of sir Model, the production of graphics, line charts and heat maps. 
+At the same time, it helped me better understand sir Model and disease spread.
+I think the most important thing I've learned is the ability to think about how to build models on my own, which allows me to understand the code better.
+I also thought it would be cool to build sir Heatmaps on minecraft.
